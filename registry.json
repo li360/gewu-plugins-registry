@@ -1,0 +1,13 @@
+[
+  {
+    "id": "plugin-theme-midnight",
+    "name": "午夜主题",
+    "version": "0.1.1",
+    "description": "纯 CSS 主题插件：深邃午夜蓝配色，不执行任何 JavaScript",
+    "author": "li360",
+    "repository": "https://github.com/li360/plugin-theme-midnight",
+    "homepage": "https://github.com/li360/plugin-theme-midnight",
+    "icon": "🌙",
+    "downloadUrl": "https://github.com/li360/plugin-theme-midnight/releases/latest/download/gewu-plugin.zip"
+  }
+]
