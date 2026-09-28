@@ -9,5 +9,17 @@
     "homepage": "https://github.com/li360/plugin-theme-midnight",
     "icon": "🌙",
     "downloadUrl": "https://github.com/li360/plugin-theme-midnight/releases/latest/download/gewu-plugin.zip"
+  },
+  {
+    "id": "plugin-mindmap-viewer",
+    "name": "思维导图查看器",
+    "version": "0.1.0",
+    "description": "将 Markdown 标题/缩进列表（.mindmap）渲染为横向思维导图，支持缩放平移与源码对照",
+    "author": "li360",
+    "repository": "https://github.com/li360/plugin-mindmap-viewer",
+    "homepage": "https://github.com/li360/plugin-mindmap-viewer",
+    "icon": "🧠",
+    "downloadUrl": "https://github.com/li360/plugin-mindmap-viewer/releases/latest/download/gewu-plugin.zip",
+    "checksum": "sha256:6f0bc4ecc04f060c6123b9e7bb4a1b327329e6cb878eb4cf02fe5d8f82b08388"
   }
 ]
