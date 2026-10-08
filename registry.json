@@ -1,25 +1,37 @@
 [
   {
-    "id": "plugin-theme-midnight",
-    "name": "午夜主题",
-    "version": "0.1.1",
+    "icon": "🌙",
     "description": "纯 CSS 主题插件：深邃午夜蓝配色，不执行任何 JavaScript",
     "author": "li360",
-    "repository": "https://github.com/li360/plugin-theme-midnight",
     "homepage": "https://github.com/li360/plugin-theme-midnight",
-    "icon": "🌙",
-    "downloadUrl": "https://github.com/li360/plugin-theme-midnight/releases/latest/download/gewu-plugin.zip"
+    "version": "0.1.1",
+    "downloadUrl": "https://github.com/li360/plugin-theme-midnight/releases/latest/download/gewu-plugin.zip",
+    "id": "plugin-theme-midnight",
+    "name": "午夜主题",
+    "repository": "https://github.com/li360/plugin-theme-midnight"
   },
   {
-    "id": "plugin-mindmap-viewer",
-    "name": "思维导图查看器",
-    "version": "0.1.1",
+    "icon": "🧠",
     "description": "将 Markdown 标题/缩进列表（.mindmap）渲染为横向思维导图，支持缩放平移与源码对照",
     "author": "li360",
-    "repository": "https://github.com/li360/plugin-mindmap-viewer",
     "homepage": "https://github.com/li360/plugin-mindmap-viewer",
-    "icon": "🧠",
+    "version": "0.1.1",
     "downloadUrl": "https://github.com/li360/plugin-mindmap-viewer/releases/latest/download/gewu-plugin.zip",
+    "id": "plugin-mindmap-viewer",
+    "name": "思维导图查看器",
+    "repository": "https://github.com/li360/plugin-mindmap-viewer",
     "checksum": "sha256:8785b7f02382d0105bf4bf69d4ae4724956342aab1ba9b5a0d6d59b73f6a0589"
+  },
+  {
+    "icon": "🖼️",
+    "description": "类型化项目容器「图库」的专用视图 — 网格浏览、灯箱、EXIF、打星、封面、分组",
+    "author": "li360",
+    "homepage": "https://github.com/li360/plugin-gallery-viewer",
+    "version": "0.1.0",
+    "downloadUrl": "https://github.com/li360/plugin-gallery-viewer/releases/latest/download/gewu-plugin.zip",
+    "id": "plugin-gallery-viewer",
+    "name": "图库视图",
+    "repository": "https://github.com/li360/plugin-gallery-viewer",
+    "checksum": "sha256:ed73505d3079e5227cbcbdbf79ec47b9677b87733fd5577208d00eb29651d272"
   }
 ]
