@@ -1,1 +1,49 @@
-t̏���{���"��ނ+-�*ނ+-�(�
+[
+  {
+    "icon": "🌙",
+    "description": "纯 CSS 主题插件：深邃午夜蓝配色，不执行任何 JavaScript",
+    "author": "li360",
+    "homepage": "https://github.com/li360/plugin-theme-midnight",
+    "version": "0.1.1",
+    "downloadUrl": "https://github.com/li360/plugin-theme-midnight/releases/latest/download/gewu-plugin.zip",
+    "id": "plugin-theme-midnight",
+    "name": "午夜主题",
+    "repository": "https://github.com/li360/plugin-theme-midnight"
+  },
+  {
+    "icon": "🧠",
+    "description": "将 Markdown 标题/缩进列表（.mindmap）渲染为横向思维导图，支持缩放平移与源码对照",
+    "author": "li360",
+    "homepage": "https://github.com/li360/plugin-mindmap-viewer",
+    "version": "0.1.1",
+    "downloadUrl": "https://github.com/li360/plugin-mindmap-viewer/releases/latest/download/gewu-plugin.zip",
+    "id": "plugin-mindmap-viewer",
+    "name": "思维导图查看器",
+    "repository": "https://github.com/li360/plugin-mindmap-viewer",
+    "checksum": "sha256:8785b7f02382d0105bf4bf69d4ae4724956342aab1ba9b5a0d6d59b73f6a0589"
+  },
+  {
+    "icon": "🖼️",
+    "description": "类型化项目容器「图库」的专用视图 — 网格浏览 / 灯箱 / 多选批量 / 排序筛选 / EXIF / 打星 / 封面 / 分组 / 地点相册 / 日期范围 / EXIF 高级筛选 / 迷你地图区域筛选 / 轨迹视图",
+    "author": "GeWu Team",
+    "homepage": "https://github.com/li360/plugin-gallery-viewer",
+    "version": "0.6.0",
+    "downloadUrl": "https://github.com/li360/plugin-gallery-viewer/releases/latest/download/gewu-plugin.zip",
+    "id": "plugin-gallery-viewer",
+    "name": "图库视图",
+    "repository": "https://github.com/li360/plugin-gallery-viewer",
+    "checksum": "sha256:45540a015f5b4c8d3d967b657170e2cccddcb674ad9339d7df230232ee033c57"
+  },
+  {
+    "icon": "💬",
+    "description": "为 AI 网页对话创建项目：打开对话页、粘贴/导入对话、保存为项目内 Markdown",
+    "author": "GeWu 第三方插件试点",
+    "homepage": "https://github.com/li360/plugin-ai-chat-notes",
+    "version": "0.1.0",
+    "downloadUrl": "https://github.com/li360/plugin-ai-chat-notes/releases/latest/download/gewu-plugin.zip",
+    "id": "plugin-ai-chat-notes",
+    "name": "AI 对话笔记",
+    "repository": "https://github.com/li360/plugin-ai-chat-notes",
+    "checksum": "sha256:bd7a886b2639372ca0295e1352842e4e49f9f4f5efbf237bce4761b1acbbe356"
+  }
+]
