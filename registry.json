@@ -39,11 +39,11 @@
     "description": "手动保存 AI 网页对话到本地项目：粘贴、预览、阅读、删除/复制 Markdown",
     "author": "GeWu 第三方插件试点",
     "homepage": "https://github.com/li360/plugin-ai-chat-notes",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "downloadUrl": "https://github.com/li360/plugin-ai-chat-notes/releases/latest/download/gewu-plugin.zip",
     "id": "plugin-ai-chat-notes",
     "name": "对话摘录",
     "repository": "https://github.com/li360/plugin-ai-chat-notes",
-    "checksum": "sha256:349d7e94a858f7fcaf739c84c0946d6f8af34a8499a6c5cdc5b38aa074eb85a5"
+    "checksum": "sha256:15ed40dca11e3b1bda66cd8f08f99831d7adc29b8cdba7eae81db0f3dbffe9fc"
   }
 ]
