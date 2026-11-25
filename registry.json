@@ -47,7 +47,7 @@
     "checksum": "sha256:2eda41eb9e4c0e79d540fc079bd16e7d8404440b132b35db1e4fde754738a2d6"
   },
   {
-    "icon": "",
+    "icon": "📄",
     "description": "查看 Word/Excel/PowerPoint 97-2003 旧版二进制文档（.doc/.xls/.ppt），只读预览，不执行宏",
     "author": "li360",
     "homepage": "https://github.com/li360/plugin-office-viewer",
@@ -56,6 +56,6 @@
     "id": "plugin-office-viewer",
     "name": "旧版 Office 查看器",
     "repository": "https://github.com/li360/plugin-office-viewer",
-    "checksum": "sha256:0d8304e9372e029565d9d32dfb149b08f84461f040c2d3f203ae7145a9c422e1"
+    "checksum": "sha256:e17daa910d697fd3df17d822506d09b78a50c2f3bc65d1439338d5e38552a60d"
   }
 ]
