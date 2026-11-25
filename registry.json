@@ -45,5 +45,17 @@
     "name": "对话摘录",
     "repository": "https://github.com/li360/plugin-ai-chat-notes",
     "checksum": "sha256:2eda41eb9e4c0e79d540fc079bd16e7d8404440b132b35db1e4fde754738a2d6"
+  },
+  {
+    "icon": "",
+    "description": "查看 Word/Excel/PowerPoint 97-2003 旧版二进制文档（.doc/.xls/.ppt），只读预览，不执行宏",
+    "author": "li360",
+    "homepage": "https://github.com/li360/plugin-office-viewer",
+    "version": "0.1.0",
+    "downloadUrl": "https://github.com/li360/plugin-office-viewer/releases/latest/download/gewu-plugin.zip",
+    "id": "plugin-office-viewer",
+    "name": "旧版 Office 查看器",
+    "repository": "https://github.com/li360/plugin-office-viewer",
+    "checksum": "sha256:0d8304e9372e029565d9d32dfb149b08f84461f040c2d3f203ae7145a9c422e1"
   }
 ]
