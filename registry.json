@@ -57,5 +57,17 @@
     "name": "旧版 Office 查看器",
     "repository": "https://github.com/li360/plugin-office-viewer",
     "checksum": "sha256:8ae83fae1513ce2fe502a2a16f4daaefb67e648a16677e60ad8d3e61228918cf"
+  },
+  {
+    "icon": "📐",
+    "description": "查看 AutoCAD 图纸（.dwg/.dxf）与 DWF 图纸（.dwf/.dwfx），只读预览",
+    "author": "li360",
+    "homepage": "https://github.com/li360/plugin-dwg-viewer",
+    "version": "0.2.0",
+    "downloadUrl": "https://github.com/li360/plugin-dwg-viewer/releases/latest/download/gewu-plugin.zip",
+    "id": "plugin-dwg-viewer",
+    "name": "CAD 图纸查看器",
+    "repository": "https://github.com/li360/plugin-dwg-viewer",
+    "checksum": "sha256:bf18e1180cc68414c92945d5960e9ce69215b4bc876ba1d729f409a0cdd407cd"
   }
 ]
