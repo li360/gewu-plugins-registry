@@ -51,12 +51,12 @@
     "description": "查看 Word/Excel/PowerPoint 97-2003 旧版二进制文档（.doc/.xls/.ppt），只读预览，不执行宏",
     "author": "li360",
     "homepage": "https://github.com/li360/plugin-office-viewer",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "downloadUrl": "https://github.com/li360/plugin-office-viewer/releases/latest/download/gewu-plugin.zip",
     "id": "plugin-office-viewer",
     "name": "旧版 Office 查看器",
     "repository": "https://github.com/li360/plugin-office-viewer",
-    "checksum": "sha256:8ae83fae1513ce2fe502a2a16f4daaefb67e648a16677e60ad8d3e61228918cf"
+    "checksum": "sha256:6227d3adb203586671c836552a30985a0a1c62a8ceb3e7e259c2d9ec5ca4e8ff"
   },
   {
     "icon": "📐",
